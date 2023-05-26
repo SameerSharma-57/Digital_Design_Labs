@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/vivado projects/lab_07/lab_07.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/vivado projects/lab_07/lab_07.srcs/sim_1/new/tb.v,1678095103,verilog,,,,tb,,,,,,,,
+D:/vivado projects/lab_07/lab_07.srcs/sources_1/new/lab_7.v,1678086101,verilog,,D:/vivado projects/lab_07/lab_07.srcs/sim_1/new/tb.v,,ALU;DFlipFlop;gateDelayWithRedutantPrimeImplicant;gateDelayWithoutRedutantPrimeImplicant,,,,,,,,

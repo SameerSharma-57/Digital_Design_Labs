@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/vivado projects/lab_06/lab_06.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/vivado projects/lab_06/lab_06.srcs/sim_1/new/tb.v,1677749901,verilog,,,,tb,,,,,,,,
+D:/vivado projects/lab_06/lab_06.srcs/sources_1/new/shifter.v,1677750253,verilog,,D:/vivado projects/lab_06/lab_06.srcs/sim_1/new/tb.v,,full_adder;full_adder_7bit;multiply_by_6;mux;shifter,,,,,,,,
